@@ -1,3 +1,4 @@
+![logo](https://github.com/Akash-h2/Akash-h2/blob/main/logo.jpeg)
 <h1 align="center">Hi 👋, I'm Akash Kanaujiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
